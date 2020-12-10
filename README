@@ -1,0 +1,12 @@
+Achtar Mohamad 322CC
+Prima tema de La PA care am facut-o in anu 2 de la Cti .
+
+Am facut nu mai problema doi , am folosit metoda greedy
+pentru acesta metoda trebuia sa citesc prin Buffer toate elementele din fisieri 
+din acesta primul element care a fost n care l-am stocat intr-o o varibila de tip int 
+si l-am transormat din string int pentru sa fie buna pentru variabila respectiva .
+dupa asta am stocat restul  textului in arrylist folosind un while si getline etc .
+am sortat toate elementele stocate in arryList folosind un comparator pentru sortare din 
+collection care l-am implimentat in functia de sortare direct .
+la sfercit verific conditia de selectie dupa vriabila end si start care sunt facute de mine
+in iner class si fac un conturi care salvezi in el numarul de garduri care sunt in plus .
