@@ -1,11 +1,12 @@
-Achtar Mohamad 
-Prima tema de La PA care am facut-o in anu 2 de la Cti .
-Am facut nu mai problema doi , am folosit metoda greedy
-pentru acesta metoda trebuia sa citesc prin Buffer toate elementele din fisieri 
-din acesta primul element care a fost n care l-am stocat intr-o o varibila de tip int 
-si l-am transormat din string int pentru sa fie buna pentru variabila respectiva .
-dupa asta am stocat restul  textului in arrylist folosind un while si getline etc .
-am sortat toate elementele stocate in arryList folosind un comparator pentru sortare din 
-collection care l-am implimentat in functia de sortare direct .
-la sfercit verific conditia de selectie dupa vriabila end si start care sunt facute de mine
-in iner class si fac un conturi care salvezi in el numarul de garduri care sunt in plus .
+
+Prima tema de La PA . facuta in anu 2 de la Cti .
+Am  folosit metoda greedy
+pentru aceasta metoda trebuia sa citesc prin Buffer toate elementele din fișier .
+din acesta , ar fi primul element care a fost n care l-am stocat intr-o o variabila de tip int 
+și l-am transformat din string in int pentru sa fie mai bine  pentru variabila respectivă .
+Am stocat restul  textului în arraylist folosind un while si getline etc .
+Am sortat toate elementele stocate în arrayList folosind un comparator pentru sortare din 
+collection care l-am implementat in functia de sortare direct .
+la sfarsit verific condiția de selecție după variabila end și start care sunt făcute de mine
+în iner class și fac un conturi care salvezi în el numărul de garduri care sunt in plus .
+
